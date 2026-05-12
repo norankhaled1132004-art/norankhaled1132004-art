@@ -1,70 +1,181 @@
-<h1 align="center">🖤 Noran Khaled</h1>
-<h3 align="center">Flutter Developer | Mobile App Developer</h3>
+<div align="center">
+  
+![Premium Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2C3E50,34495E,1C1C1C&height=300&section=header&text=NORAN%20KHALED&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 
-<p align="center">
-  <img src="https://i.ibb.co/0jQ5Q2v/noran.jpg" width="220" alt="Noran Khaled"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Developer;Building+Elegant+Apps+🖤" />
-</p>
+<div align="center">
 
----
+### 🚀 **Flutter Developer | Mobile App Developer**
 
-## 🖤 About Me
-✨ Passionate Flutter Developer focused on building modern, clean, and user-friendly mobile applications.  
-🚀 Skilled in Flutter, Dart, Firebase, UI/UX, and GitHub.  
-📫 Reach me: **norankhaled1132004@gmail.com**
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma" />
-</p>
+<h3>
+  <a href="https://www.linkedin.com/in/noran-khaled-422422341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:norankhaled1132004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/norankhaled1132004-art?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
+</h3>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=norankhaled1132004-art&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norankhaled1132004-art&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
+
+<div align="center">
+
+## 👋 **About Me**
+
+I'm a passionate **Flutter Developer** specializing in creating beautiful, modern mobile applications with exceptional user experience. I combine clean code practices with cutting-edge design principles to deliver premium-quality apps. My expertise spans the full development lifecycle, from UI/UX design to deployment.
+
+**Crafting elegant solutions for complex problems** | Building tomorrow's mobile experiences today
+
+</div>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=norankhaled1132004-art&theme=onedark&no-frame=true&row=1"/>
-</p>
+<div align="center">
+
+## 🛠️ **Technical Arsenal**
+
+<div align="center">
+
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Design & UX
+<div style="background: linear-gradient(135deg, #1C1C1C 0%, #2C3E50 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4ECDC4?style=flat-square&logo=css3&logoColor=white)
+![Mobile First](https://img.shields.io/badge/Mobile%20First-FF9F43?style=flat-square&logo=android&logoColor=white)
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 **GitHub Statistics**
 
-### 📱 Habit App
-Modern Flutter habit tracking application with clean UI and smooth experience.  
-🔗 https://github.com/norankhaled1132004-art/habbitapp
+<div align="center">
 
-### 🚗 LivoCar
-Flutter mobile application for car-related services with elegant UI.  
-🔗 https://github.com/norankhaled1132004-art/LivoCar
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/noran-khaled-422422341">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/norankhaled1132004-art">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=norankhaled1132004-art&show_icons=true&theme=dark&bg_color=1C1C1C&title_color=FFFFFF&text_color=E0E0E0&icon_color=FFD700&border_color=2C3E50&border_radius=10" alt="GitHub Stats" />
 </a>
 
+<a href="https://github.com/norankhaled1132004-art">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norankhaled1132004-art&layout=compact&theme=dark&bg_color=1C1C1C&title_color=FFFFFF&text_color=E0E0E0&border_color=2C3E50&border_radius=10" alt="Top Languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=norankhaled1132004-art&theme=dark&column=3&margin-w=15&margin-h=15&no-frame=true)
+
+</div>
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+### 📱 **Habit App**
+<a href="https://github.com/norankhaled1132004-art/habbitapp" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="View Habit App" />
+</a>
+
+**A modern Flutter mobile habit tracking application** with clean UI and smooth user experience. This app helps users build and maintain positive habits with an intuitive interface and beautiful animations.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square)
+
+---
+
+### 🚗 **LivoCar**
+<a href="https://github.com/norankhaled1132004-art/LivoCar" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="View LivoCar" />
+</a>
+
+**A Flutter mobile application for car-related services** with elegant design and seamless performance. Providing users with comprehensive car management solutions through an intuitive mobile platform.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square)
+
+</div>
+
+---
+
+## 📈 **Contribution Activity**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norankhaled1132004-art&theme=dark-only&bg_color=1C1C1C&color=FFFFFF&line=02569B&point=FFD700&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 **Let's Connect**
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss mobile app development, design patterns, or just say hello—feel free to reach out!
+
+### Get in Touch
+
+<a href="https://www.linkedin.com/in/noran-khaled-422422341" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="mailto:norankhaled1132004@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>
+<a href="https://github.com/norankhaled1132004-art?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
 
 ---
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
+
+<div align="center">
+
+### 💡 Currently Exploring
+- Advanced Flutter Architecture Patterns
+- Firebase Cloud Functions & Real-time Databases
+- UI/UX Best Practices for Mobile Apps
+- Performance Optimization Techniques
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=norankhaled1132004-art&label=Profile%20Visits&color=2C3E50&icon=5&pretty=false)
+
+---
+
+<div style="background: linear-gradient(135deg, #1C1C1C 0%, #2C3E50 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
+
+### ✨ *Building exceptional mobile experiences, one line of code at a time.*
+
+**© 2026 Noran Khaled | All Rights Reserved**
+
+</div>
+
+</div>
