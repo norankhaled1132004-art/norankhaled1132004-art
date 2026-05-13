@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://v0-luxury-flutter-developer-portfol.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-CLICK_HERE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-CLICK_HERE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
   </a>
 </p>
 
 <p align="center">
-  <b>✨ Explore my complete Flutter portfolio, projects, and professional work ✨</b>
+  <b>✨ Explore my Flutter portfolio, featured projects, and professional work ✨</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=700&lines=Building+beautiful+Flutter+apps+💙;Clean+Architecture+Enthusiast;Firebase+%7C+REST+API+%7C+State+Management;Open+to+Flutter+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=750&lines=Building+beautiful+Flutter+apps+💙;Clean+Architecture+Enthusiast;Firebase+%7C+REST+API+%7C+State+Management;Open+to+Flutter+Internship+Opportunities" />
 </p>
 
 <p align="center">
@@ -23,13 +23,6 @@
   <a href="mailto:norankhaled1132004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/norankhaled1132004-art">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norankhaled1132004-art&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
@@ -39,15 +32,15 @@
 ```yaml
 name: Noran Khaled
 role: Flutter Developer
-focus: Cross-platform Mobile Development
+specialization: Cross-platform Mobile Development
 currently_learning: Advanced Flutter & Clean Architecture
-open_to: Internship / Junior Flutter Roles
+open_to: Flutter Internship / Junior Flutter Opportunities
 ```
 
-💙 Passionate about crafting scalable, elegant, and high-performance Flutter applications.  
-🔥 Hands-on experience with Firebase, REST APIs, local storage, and state management.  
-🚀 Focused on writing clean, maintainable code with modern architecture patterns.  
-📱 Love transforming ideas into responsive and smooth mobile experiences.
+💙 Passionate Flutter developer focused on building scalable, elegant, and high-performance mobile applications.  
+🔥 Hands-on experience with Firebase, REST APIs, local storage, and modern state management.  
+🚀 Dedicated to writing clean, maintainable code and creating smooth user experiences.  
+📱 Turning ideas into polished mobile products.
 
 ---
 
@@ -75,7 +68,7 @@ open_to: Internship / Junior Flutter Roles
 <td width="50%">
 
 ### 🛒 Shopping App
-Modern e-commerce mobile app with clean UI and shopping flow.
+Modern e-commerce mobile application with shopping workflow and clean UI.
 
 **Stack:** Flutter • Firebase • State Management
 
@@ -85,7 +78,7 @@ Modern e-commerce mobile app with clean UI and shopping flow.
 <td width="50%">
 
 ### ✅ Todo App
-Task management app focused on productivity and local persistence.
+Task management application focused on productivity and local persistence.
 
 **Stack:** Flutter • SQLite • State Management
 
@@ -98,7 +91,7 @@ Task management app focused on productivity and local persistence.
 <td width="50%">
 
 ### 🌱 Habit Tracker
-Habit-building app designed for consistency and productivity.
+Habit-building application designed for consistency and productivity.
 
 **Stack:** Flutter • Local Storage • UI Design
 
@@ -107,8 +100,8 @@ Habit-building app designed for consistency and productivity.
 </td>
 <td width="50%">
 
-### 🚗 Livo Car App
-Responsive mobile application with API integration and smooth UI.
+### 🏥 LivoCare
+Healthcare mobile application with analytics, API integration, and responsive UI.
 
 **Stack:** Flutter • REST API • State Management
 
@@ -149,17 +142,14 @@ Responsive mobile application with API integration and smooth UI.
 
 ---
 
-# 📬 Contact Me
+# 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-norankhaled1132004@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
-    <img src="https://img.shields.io/badge/LinkedIn-Noran%20Khaled-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Noran_Khaled-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
