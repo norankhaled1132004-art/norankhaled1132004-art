@@ -18,8 +18,24 @@
   </a>
 </p>
 
+---
+
+# 🌐 My Portfolio
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norankhaled1132004-art&style=for-the-badge&color=blueviolet" />
+  <a href="https://v0-luxury-flutter-developer-portfol.vercel.app/">
+    <img src="./assets/readme/portfolio-preview.png" width="100%" alt="Noran Portfolio Preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://v0-luxury-flutter-developer-portfol.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-Explore%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Explore my complete Flutter portfolio, featured projects, and professional work ✨</b>
 </p>
 
 ---
@@ -97,8 +113,8 @@ Habit-building app designed for consistency and productivity.
 </td>
 <td width="50%">
 
-### 🚗 Livo Car App
-Responsive mobile application with API integration and smooth UI.
+### 🏥 LivoCare
+Responsive healthcare mobile application with analytics and API integration.
 
 **Stack:** Flutter • REST API • State Management
 
@@ -145,9 +161,6 @@ Responsive mobile application with API integration and smooth UI.
   <a href="mailto:norankhaled1132004@gmail.com">
     <img src="https://img.shields.io/badge/Email-norankhaled1132004@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
     <img src="https://img.shields.io/badge/LinkedIn-Noran%20Khaled-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
