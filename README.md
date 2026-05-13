@@ -1,122 +1,160 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7A5AF8&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Noran+Khaled+👋;Flutter+Developer;Mobile+App+Developer;Clean+Architecture+Enthusiast;Open+to+Internship+Opportunities" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=220&section=header&text=Noran%20Khaled&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer&descAlignY=58&descAlign=50" />
 </p>
 
-<h3 align="center">Building beautiful, scalable, and user-friendly mobile applications with Flutter 💙</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=700&lines=Building+beautiful+Flutter+apps+💙;Clean+Architecture+Enthusiast;Firebase+%7C+REST+API+%7C+State+Management;Open+to+Flutter+Internship+Opportunities" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/norankhaled1132004-art">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norankhaled1132004-art&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=norankhaled1132004-art&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-✨ Flutter Developer passionate about creating high-performance cross-platform applications.  
-🔥 Experienced in Firebase, REST APIs, State Management, and scalable architectures.  
-🧠 Interested in Clean Architecture, performance optimization, and elegant UI/UX.  
-💻 Building responsive apps with smooth user experiences.  
-🌱 Continuously learning and improving advanced Flutter development skills.
+```yaml
+name: Noran Khaled
+role: Flutter Developer
+focus: Cross-platform Mobile Development
+currently_learning: Advanced Flutter & Clean Architecture
+open_to: Internship / Junior Flutter Roles
+```
+
+💙 Passionate about crafting scalable, elegant, and high-performance Flutter applications.  
+🔥 Hands-on experience with Firebase, REST APIs, local storage, and state management.  
+🚀 Focused on writing clean, maintainable code with modern architecture patterns.  
+📱 Love transforming ideas into responsive and smooth mobile experiences.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Provider-State%20Management-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bloc-State%20Management-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-Database-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hive-Local%20Storage-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean-Architecture-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-State_Management-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLoC-Architecture-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-Database-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hive-Local_Storage-FBBC05?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-API-FF6D00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean-Architecture-111827?style=for-the-badge" />
 </p>
 
 ---
 
-## 📱 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛒 Shopping App
-Modern e-commerce Flutter application with clean UI, shopping workflow, and Firebase integration.  
-🔗 [View Project](https://github.com/norankhaled1132004-art/shoppingapp)
+Modern e-commerce mobile app with clean UI and shopping flow.
 
----
+**Stack:** Flutter • Firebase • State Management
+
+🔗 [View Repository](https://github.com/norankhaled1132004-art/shoppingapp)
+
+</td>
+<td width="50%">
 
 ### ✅ Todo App
-Task management application focused on productivity with efficient local storage handling.  
-🔗 [View Project](https://github.com/norankhaled1132004-art/Todoapp)
+Task management app focused on productivity and local persistence.
 
----
+**Stack:** Flutter • SQLite • State Management
 
-### 🌱 Habit Tracker App
-Productivity-focused habit-building application with smooth and intuitive user experience.  
-🔗 [View Project](https://github.com/norankhaled1132004-art/habbitapp)
+🔗 [View Repository](https://github.com/norankhaled1132004-art/Todoapp)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌱 Habit Tracker
+Habit-building app designed for consistency and productivity.
+
+**Stack:** Flutter • Local Storage • UI Design
+
+🔗 [View Repository](https://github.com/norankhaled1132004-art/habbitapp)
+
+</td>
+<td width="50%">
 
 ### 🚗 Livo Car App
-Responsive car-related mobile application with API integration and modern UI.  
-🔗 [View Project](https://github.com/norankhaled1132004-art/LivoCar)
+Responsive mobile application with API integration and smooth UI.
+
+**Stack:** Flutter • REST API • State Management
+
+🔗 [View Repository](https://github.com/norankhaled1132004-art/LivoCar)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=norankhaled1132004-art&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=norankhaled1132004-art&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norankhaled1132004-art&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=norankhaled1132004-art&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norankhaled1132004-art&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=norankhaled1132004-art&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=norankhaled1132004-art&theme=tokyo-night" />
+  <img src="https://github-profile-trophy.vercel.app/?username=norankhaled1132004-art&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🏆 Achievements
+# 📬 Contact Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=norankhaled1132004-art&theme=tokyonight&no-frame=true&row=1" />
+  <a href="mailto:norankhaled1132004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-norankhaled1132004@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
----
-
-## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
-    <img src="https://img.shields.io/badge/LinkedIn-Noran%20Khaled-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-norankhaled1132004@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-Noran%20Khaled-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Always learning, building, and growing with Flutter
+  <i>"Code. Learn. Build. Repeat."</i> 💙
 </p>
