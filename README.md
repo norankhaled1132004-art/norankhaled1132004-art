@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=750&lines=Building+beautiful+Flutter+apps+💙;Clean+Architecture+Enthusiast;Firebase+%7C+REST+API+%7C+State+Management;Open+to+Flutter+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=780&lines=Building+beautiful+Flutter+apps+💙;Clean+Architecture+Enthusiast;Firebase+%7C+REST+API+%7C+State+Management;Open+to+Flutter+Internship+Opportunities" />
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@ Healthcare mobile application with analytics, API integration, and responsive UI
 
 <p align="center">
   <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send_Me_a_Message-EA4335?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
     <img src="https://img.shields.io/badge/LinkedIn-Noran_Khaled-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -156,5 +156,5 @@ Healthcare mobile application with analytics, API integration, and responsive UI
 ---
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i> 💙
+  <i>"Code. Learn. Build. Repeat."</i> 💙</i>
 </p>
