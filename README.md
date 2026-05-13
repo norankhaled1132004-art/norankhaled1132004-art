@@ -1,25 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=220&section=header&text=Noran%20Khaled&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=240&section=header&text=Noran%20Khaled&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer&descAlignY=58&descAlign=50" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=700&lines=Building+beautiful+Flutter+apps+💙;Clean+Architecture+Enthusiast;Firebase+%7C+REST+API+%7C+State+Management;Open+to+Flutter+Internship+Opportunities" />
-</p>
+<h3 align="center">
+Building elegant, scalable, and user-focused mobile applications with Flutter 💙
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/norankhaled1132004-art">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norankhaled1132004-art&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
@@ -29,19 +25,17 @@
 ```yaml
 name: Noran Khaled
 role: Flutter Developer
-focus: Cross-platform Mobile Development
-currently_learning: Advanced Flutter & Clean Architecture
-open_to: Internship / Junior Flutter Roles
+specialization: Cross-Platform Mobile Development
+focus: Clean Architecture | Firebase | REST APIs | State Management
+open_to: Flutter Internship / Junior Flutter Opportunities
 ```
 
-💙 Passionate about crafting scalable, elegant, and high-performance Flutter applications.  
-🔥 Hands-on experience with Firebase, REST APIs, local storage, and state management.  
-🚀 Focused on writing clean, maintainable code with modern architecture patterns.  
-📱 Love transforming ideas into responsive and smooth mobile experiences.
+I’m a Flutter developer passionate about building responsive, scalable, and visually polished mobile applications.  
+I enjoy turning ideas into smooth user experiences while writing clean, maintainable code and continuously improving my engineering skills.
 
 ---
 
-# 🛠 Tech Arsenal
+# 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
@@ -58,55 +52,76 @@ open_to: Internship / Junior Flutter Roles
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Project
+
+## 🏥 LivoCare — Healthcare Mobile Application
+
+<p align="center">
+  <img src="./assets/readme/livocare.png" width="100%" />
+</p>
+
+A healthcare-focused Flutter application designed to streamline patient management, risk assessment, analytics, and medical recommendations through an intuitive mobile experience.
+
+**Highlights:**
+- Patient management workflow
+- Health analytics dashboard
+- Risk prediction results
+- Medical recommendation system
+- Clean and professional healthcare UI
+
+**Tech Stack:** Flutter • REST API • State Management • UI/UX Design
+
+🔗 **Repository:** https://github.com/norankhaled1132004-art/LivoCar
+
+---
+
+# 📱 Other Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛒 Shopping App
-Modern e-commerce mobile app with clean UI and shopping flow.
 
-**Stack:** Flutter • Firebase • State Management
+<img src="./shopping.png" width="100%" />
 
-🔗 [View Repository](https://github.com/norankhaled1132004-art/shoppingapp)
+Modern e-commerce Flutter application with product browsing, wishlist, cart, checkout, and profile management.
 
-</td>
-<td width="50%">
+**Tech:** Flutter • Firebase • State Management
 
-### ✅ Todo App
-Task management app focused on productivity and local persistence.
-
-**Stack:** Flutter • SQLite • State Management
-
-🔗 [View Repository](https://github.com/norankhaled1132004-art/Todoapp)
+🔗 https://github.com/norankhaled1132004-art/shoppingapp
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🌱 Habit Tracker
-Habit-building app designed for consistency and productivity.
 
-**Stack:** Flutter • Local Storage • UI Design
+<img src="./habit.png" width="100%" />
 
-🔗 [View Repository](https://github.com/norankhaled1132004-art/habbitapp)
+Productivity-focused habit tracking application with progress monitoring and engaging UI.
 
-</td>
-<td width="50%">
+**Tech:** Flutter • Local Storage • State Management
 
-### 🚗 Livo Car App
-Responsive mobile application with API integration and smooth UI.
-
-**Stack:** Flutter • REST API • State Management
-
-🔗 [View Repository](https://github.com/norankhaled1132004-art/LivoCar)
+🔗 https://github.com/norankhaled1132004-art/habbitapp
 
 </td>
 </tr>
 </table>
+
+---
+
+## ✅ Todo App
+
+<p align="center">
+  <img src="./todo.png" width="35%" />
+</p>
+
+Simple and clean task management application focused on productivity and local persistence.
+
+**Tech:** Flutter • SQLite • State Management
+
+🔗 **Repository:** https://github.com/norankhaled1132004-art/Todoapp
 
 ---
 
@@ -123,38 +138,19 @@ Responsive mobile application with API integration and smooth UI.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=norankhaled1132004-art&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=norankhaled1132004-art&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-# 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-norankhaled1132004@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+# 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
     <img src="https://img.shields.io/badge/LinkedIn-Noran%20Khaled-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="mailto:norankhaled1132004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-norankhaled1132004@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i> 💙
+  <i>"Turning ideas into impactful mobile experiences."</i> ✨
 </p>
