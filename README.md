@@ -62,9 +62,9 @@ I focus on building real-world Flutter applications with strong attention to per
 
 ## 🛒 ShopEase — E-Commerce Mobile App
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/shopping.png" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/shopping.png"/>
+</div>
 
 A modern Flutter e-commerce application focused on seamless shopping experiences and elegant mobile UI.
 
@@ -82,9 +82,9 @@ A modern Flutter e-commerce application focused on seamless shopping experiences
 
 ## 🏥 LivoCare — Healthcare Application
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/livocare.png" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/livocare.png"/>
+</div>
 
 Healthcare mobile application designed for patient monitoring, healthcare insights, and predictive analytics.
 
@@ -102,9 +102,9 @@ Healthcare mobile application designed for patient monitoring, healthcare insigh
 
 ## 🌱 Habit Tracker App
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/habit.png" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/habit.png"/>
+</div>
 
 A productivity-focused habit tracking application built to encourage consistency and measurable progress.
 
@@ -122,9 +122,9 @@ A productivity-focused habit tracking application built to encourage consistency
 
 ## ✅ Todo App
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/todo.png" width="40%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/todo.png" width="350"/>
+</div>
 
 Task management mobile application built for productivity, organization, and simple user interaction.
 
