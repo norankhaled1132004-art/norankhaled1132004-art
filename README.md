@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://v0-luxury-flutter-developer-portfol.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-CLICK_HERE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+  </a>
+</p>
+
+<p align="center">
+  <b>✨ Explore my complete Flutter portfolio, projects, and professional work ✨</b>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=220&section=header&text=Noran%20Khaled&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer&descAlignY=58&descAlign=50" />
 </p>
 
