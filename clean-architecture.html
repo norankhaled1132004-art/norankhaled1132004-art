@@ -1,1 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Clean Architecture</title>
 
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e1b4b);
+      color: white;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 60px auto;
+      padding: 30px;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 25px;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+    }
+
+    nav {
+      margin-bottom: 30px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-right: 20px;
+      font-weight: bold;
+    }
+
+    .active {
+      color: #c4b5fd;
+    }
+
+    h1 {
+      color: #c4b5fd;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <nav>
+      <a href="backend.html">BACKEND</a>
+      <a href="firebase-rest-api.html">FIREBASE | REST API</a>
+      <a href="architecture.html">ARCHITECTURE</a>
+      <a href="clean-architecture.html" class="active">CLEAN ARCHITECTURE</a>
+    </nav>
+
+    <div class="card">
+      <h1>Clean Architecture</h1>
+
+      <p>I apply clean architecture principles for scalable and testable Flutter applications.</p>
+
+      <ul>
+        <li>Presentation Layer</li>
+        <li>Domain Layer</li>
+        <li>Data Layer</li>
+        <li>Repository Pattern</li>
+        <li>Dependency Injection</li>
+      </ul>
+
+      <p>This architecture improves maintainability, readability, and scalability in production apps.</p>
+    </div>
+
+  </div>
+</body>
+</html>
