@@ -1,7 +1,85 @@
-<h1>Provider Pattern</h1>
-<p>
-  Provider is simple, efficient, and beginner-friendly.
-</p>
-<p>
-  I use it for lightweight state sharing and dependency injection.
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Provider</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e1b4b);
+      color: white;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 60px auto;
+      padding: 30px;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 25px;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+    }
+
+    nav {
+      margin-bottom: 30px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-right: 20px;
+      font-weight: bold;
+    }
+
+    .active {
+      color: #c4b5fd;
+    }
+
+    h1 {
+      color: #c4b5fd;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <nav>
+      <a href="state-management.html">STATE MANAGEMENT</a>
+      <a href="bloc.html">BLOC</a>
+      <a href="cubit.html">CUBIT</a>
+      <a href="provider.html" class="active">PROVIDER</a>
+    </nav>
+
+    <div class="card">
+      <h1>Provider Pattern</h1>
+
+      <p>
+        Provider is a lightweight and beginner-friendly state management solution in Flutter.
+      </p>
+
+      <ul>
+        <li>Easy to learn and implement</li>
+        <li>Great for dependency injection</li>
+        <li>Efficient UI rebuilding</li>
+        <li>Ideal for small to medium apps</li>
+      </ul>
+
+      <p>
+        I use Provider for simple state sharing and clean architecture in lightweight applications.
+      </p>
+    </div>
+
+  </div>
+</body>
+</html>
