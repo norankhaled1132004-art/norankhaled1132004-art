@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LivoCare | Noran Khaled</title>
+  <title>LivoCare</title>
 
   <style>
     * {
@@ -18,108 +18,88 @@
       color: #111827;
     }
 
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+
+    .main-image {
+      width: 100%;
+      border-radius: 24px;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+      margin-bottom: 50px;
+    }
+
     .hero {
-      padding: 100px 20px;
       text-align: center;
-      background: linear-gradient(135deg, #2563eb, #1d4ed8);
-      color: white;
+      margin-bottom: 60px;
     }
 
     .hero h1 {
-      font-size: 64px;
+      font-size: 56px;
+      color: #2563eb;
       margin-bottom: 20px;
       font-weight: 800;
     }
 
     .hero h2 {
-      max-width: 900px;
-      margin: auto;
-      font-size: 30px;
+      font-size: 28px;
+      color: #1d4ed8;
+      margin-bottom: 25px;
       line-height: 1.5;
-      margin-bottom: 30px;
-      font-weight: 600;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .hero p {
-      max-width: 950px;
+      font-size: 18px;
+      color: #4b5563;
+      line-height: 1.8;
+      max-width: 900px;
       margin: auto;
-      font-size: 20px;
-      line-height: 1.9;
-      opacity: 0.95;
-    }
-
-    .hero-btn {
-      display: inline-block;
-      margin-top: 40px;
-      padding: 16px 30px;
-      background: white;
-      color: #2563eb;
-      text-decoration: none;
-      border-radius: 50px;
-      font-weight: bold;
-      font-size: 17px;
-      transition: 0.3s;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-    }
-
-    .hero-btn:hover {
-      transform: translateY(-4px);
-    }
-
-    .container {
-      max-width: 1250px;
-      margin: auto;
-      padding: 70px 20px;
-    }
-
-    .main-image {
-      width: 100%;
-      border-radius: 28px;
-      box-shadow: 0 20px 60px rgba(37, 99, 235, 0.2);
     }
 
     .section {
-      margin-top: 90px;
+      margin-top: 80px;
     }
 
     .section h2 {
       text-align: center;
-      font-size: 42px;
-      margin-bottom: 45px;
-      color: #1d4ed8;
-      font-weight: 800;
+      font-size: 38px;
+      margin-bottom: 40px;
+      color: #2563eb;
     }
 
     .features {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 28px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
     }
 
     .feature-card {
       background: white;
-      padding: 32px;
-      border-radius: 24px;
-      box-shadow: 0 15px 35px rgba(0,0,0,0.08);
-      transition: all 0.3s ease;
-      border: 1px solid #e5e7eb;
+      padding: 28px;
+      border-radius: 22px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      transition: 0.3s;
     }
 
     .feature-card:hover {
-      transform: translateY(-10px);
-      box-shadow: 0 25px 50px rgba(37, 99, 235, 0.15);
+      transform: translateY(-8px);
+      box-shadow: 0 20px 40px rgba(37, 99, 235, 0.15);
     }
 
     .feature-card h3 {
-      margin-bottom: 16px;
-      font-size: 21px;
+      margin-bottom: 14px;
       color: #111827;
+      font-size: 20px;
     }
 
     .feature-card p {
       color: #6b7280;
-      line-height: 1.8;
-      font-size: 16px;
+      line-height: 1.7;
     }
 
     .tech {
@@ -128,28 +108,21 @@
 
     .badge {
       display: inline-block;
-      margin: 12px;
-      padding: 14px 24px;
+      margin: 10px;
+      padding: 12px 20px;
       background: white;
       border-radius: 999px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
       font-weight: bold;
       color: #2563eb;
-      font-size: 16px;
-      transition: 0.3s;
-    }
-
-    .badge:hover {
-      transform: scale(1.05);
+      font-size: 15px;
     }
 
     footer {
       text-align: center;
-      padding: 80px 20px;
+      padding: 70px 20px;
       color: #6b7280;
-      font-size: 17px;
-      background: white;
-      margin-top: 100px;
+      font-size: 16px;
     }
 
     @media (max-width: 768px) {
@@ -162,11 +135,7 @@
       }
 
       .hero p {
-        font-size: 17px;
-      }
-
-      .section h2 {
-        font-size: 32px;
+        font-size: 16px;
       }
     }
   </style>
@@ -174,82 +143,66 @@
 
 <body>
 
-<section class="hero">
-  <h1>🏥 LivoCare</h1>
-
-  <h2>
-    AI-Powered Healthcare Application for NAFLD Risk Prediction & Smart Patient Management
-  </h2>
-
-  <p>
-    LivoCare is an intelligent healthcare mobile application built to empower doctors with faster, smarter, and data-driven clinical decision-making.
-    <br><br>
-    Physicians can manually enter patient medical data or upload diagnostic medical images for AI-assisted analysis to assess the risk of Non-Alcoholic Fatty Liver Disease (NAFLD).
-    <br><br>
-    The platform delivers predictive insights, patient analytics, automated risk categorization, and personalized healthcare recommendations in a seamless mobile experience.
-  </p>
-
-  <a href="https://github.com/norankhaled1132004-art" class="hero-btn">
-    View GitHub Profile
-  </a>
-</section>
-
 <div class="container">
 
-  <img src="assets/livocare.png" class="main-image">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/readme/livocare.png" class="main-image">
+
+  <section class="hero">
+    <h1>🏥 LivoCare</h1>
+
+    <h2>
+      AI-Powered Healthcare Application for NAFLD Risk Prediction & Smart Patient Management
+    </h2>
+
+    <p>
+      LivoCare is an intelligent healthcare mobile application designed for doctors to streamline patient management and support faster clinical decisions.
+      <br><br>
+      Physicians can manually enter patient medical data or upload diagnostic images for AI-assisted analysis to assess the risk of Non-Alcoholic Fatty Liver Disease (NAFLD).
+      <br><br>
+      The platform provides real-time risk prediction, analytics dashboards, patient tracking, and personalized healthcare recommendations.
+    </p>
+  </section>
 
   <section class="section">
-    <h2>✨ Core Features</h2>
+    <h2>✨ Key Features</h2>
 
     <div class="features">
 
       <div class="feature-card">
         <h3>👨‍⚕ Patient Management</h3>
-        <p>
-          Efficiently register, organize, and manage patient records in one centralized healthcare workflow.
-        </p>
+        <p>Register, update, and manage patient records efficiently in one centralized workflow.</p>
       </div>
 
       <div class="feature-card">
         <h3>📸 AI Image Analysis</h3>
-        <p>
-          Upload medical images for intelligent AI-powered liver risk assessment and faster diagnosis support.
-        </p>
+        <p>Upload medical images for intelligent AI-assisted liver disease risk assessment.</p>
       </div>
 
       <div class="feature-card">
-        <h3>📊 Medical Analytics Dashboard</h3>
-        <p>
-          Visualize patient health metrics, risk distributions, and actionable healthcare insights.
-        </p>
+        <h3>📊 Analytics Dashboard</h3>
+        <p>Track patient insights, health metrics, and risk distribution visually.</p>
       </div>
 
       <div class="feature-card">
-        <h3>🧠 Risk Prediction Engine</h3>
-        <p>
-          Analyze patient clinical indicators and generate real-time NAFLD risk predictions.
-        </p>
+        <h3>🧠 Risk Prediction</h3>
+        <p>Generate real-time NAFLD risk predictions using patient clinical indicators.</p>
       </div>
 
       <div class="feature-card">
         <h3>📋 Smart Recommendations</h3>
-        <p>
-          Provide doctors with personalized clinical recommendations based on prediction outcomes.
-        </p>
+        <p>Provide actionable healthcare recommendations based on analysis results.</p>
       </div>
 
       <div class="feature-card">
         <h3>🔐 Secure Authentication</h3>
-        <p>
-          Protected login and secure access designed specifically for healthcare professionals.
-        </p>
+        <p>Protected access designed specifically for healthcare professionals.</p>
       </div>
 
     </div>
   </section>
 
   <section class="section tech">
-    <h2>⚙ Technology Stack</h2>
+    <h2>⚙ Tech Stack</h2>
 
     <span class="badge">Flutter</span>
     <span class="badge">Firebase</span>
@@ -257,14 +210,13 @@
     <span class="badge">Bloc</span>
     <span class="badge">Provider</span>
     <span class="badge">Machine Learning</span>
-    <span class="badge">Medical Imaging</span>
-    <span class="badge">Healthcare Analytics</span>
+
   </section>
 
 </div>
 
 <footer>
-  Built with Flutter 💙 by Noran Khaled | AI Healthcare Solution
+  Built with Flutter 💙 by Noran Khaled
 </footer>
 
 </body>
