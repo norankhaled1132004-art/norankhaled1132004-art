@@ -1,7 +1,85 @@
-<h1>Cubit State Management</h1>
-<p>
-  Cubit is a lightweight version of Bloc with less boilerplate.
-</p>
-<p>
-  Great for medium-sized Flutter apps requiring clean but simple architecture.
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cubit</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e1b4b);
+      color: white;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 60px auto;
+      padding: 30px;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 25px;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+    }
+
+    nav {
+      margin-bottom: 30px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-right: 20px;
+      font-weight: bold;
+    }
+
+    .active {
+      color: #c4b5fd;
+    }
+
+    h1 {
+      color: #c4b5fd;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <nav>
+      <a href="state-management.html">STATE MANAGEMENT</a>
+      <a href="bloc.html">BLOC</a>
+      <a href="cubit.html" class="active">CUBIT</a>
+      <a href="provider.html">PROVIDER</a>
+    </nav>
+
+    <div class="card">
+      <h1>Cubit State Management</h1>
+
+      <p>
+        Cubit is a lightweight version of Bloc with less boilerplate and simpler implementation.
+      </p>
+
+      <ul>
+        <li>Simple and clean architecture</li>
+        <li>Less code compared to Bloc</li>
+        <li>Direct state emission using emit()</li>
+        <li>Perfect for medium-sized Flutter apps</li>
+      </ul>
+
+      <p>
+        I use Cubit when I need fast, maintainable state management without complex event handling.
+      </p>
+    </div>
+
+  </div>
+</body>
+</html>
