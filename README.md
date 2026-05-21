@@ -1,38 +1,32 @@
 <p align="center">
   <a href="https://noran-builds-apps.base44.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_VIEW_PORTFOLIO-CLICK_HERE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+    <img src="https://img.shields.io/badge/🚀_Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/CV_Noran1_.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_DOWNLOAD_CV-CLICK_HERE-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄_CV-Download-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=250&section=header&text=Noran%20Khaled&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Mobile%20App%20Developer&descAlignY=58&descAlign=50" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7A5AF8&center=true&vCenter=true&width=900&lines=Flutter+Developer+💙;Building+beautiful+cross-platform+mobile+applications;Firebase+%7C+REST+API+%7C+State+Management+%7C+Clean+Architecture;Available+for+Internships+%26+Freelance+Projects" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/noran-khaled-422422341">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:norankhaled1132004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Noran%20Khaled&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Mobile%20Apps&descAlignY=58&descAlign=50" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1400&color=7A5AF8&center=true&vCenter=true&width=850&lines=Flutter+Developer+💙;Building+clean+and+scalable+mobile+applications;Firebase+%7C+REST+APIs+%7C+State+Management+%7C+Clean+Architecture" />
 </p>
 
 ---
 
 # 💫 About Me
 
-Junior Flutter Developer passionate about crafting high-quality cross-platform mobile applications with elegant UI, scalable architecture, and smooth user experiences.
+Junior Flutter Developer passionate about transforming ideas into real mobile applications.
 
-I focus on building real-world Flutter applications with strong attention to performance, clean code practices, state management, API integration, Firebase services, and local persistence.
+I enjoy building clean, scalable, and user-friendly Flutter apps with strong architecture, efficient state management, API integrations, Firebase services, and smooth UI experiences.
 
-🎯 Currently open to:
+🎯 Currently Open To:
 - Flutter Internship Opportunities
 - Junior Flutter Developer Roles
 - Freelance Mobile App Projects
@@ -42,18 +36,16 @@ I focus on building real-world Flutter applications with strong attention to per
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Provider-State_Management-2196F3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BLoC-Architecture-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cubit-State_Management-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-Local_Database-34A853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hive-Local_Storage-FBBC05?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-API-FF6D00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-Integration-FF6D00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean-Architecture-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge" />
 </p>
 
 ---
@@ -62,38 +54,38 @@ I focus on building real-world Flutter applications with strong attention to per
 
 ## 🛒 ShopEase — E-Commerce Mobile App
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/shopping.png"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/shopping.png" width="500"/>
+</p>
 
-A modern Flutter e-commerce application focused on seamless shopping experiences and elegant mobile UI.
+Modern Flutter e-commerce mobile application focused on seamless shopping experiences and elegant UI.
 
-**Highlights**
+### Highlights
 - Product browsing & category filtering
 - Shopping cart functionality
 - Wishlist support
 - User profile management
-- Clean responsive design
+- Responsive clean UI
 - Dark mode support
 
-**Tech Stack:** Flutter • Dart • State Management • Local Storage • UI Design
+**Tech Stack:** Flutter • Dart • State Management • Local Storage
 
 ---
 
-## 🏥 LivoCare — Healthcare Application
+## 🏥 LivoCare — Healthcare Mobile Application
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/livocare.png"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/livocare.png" width="500"/>
+</p>
 
-Healthcare mobile application designed for patient monitoring, healthcare insights, and predictive analytics.
+Healthcare mobile application built for patient monitoring, analytics, and predictive insights.
 
-**Highlights**
-- Patient management workflow
-- Medical analytics dashboard
-- Risk prediction flow
+### Highlights
 - Authentication system
-- Data visualization
+- Patient workflow management
+- Risk prediction flow
+- Data visualization dashboard
+- Firebase integration
 - Responsive professional UI
 
 **Tech Stack:** Flutter • Firebase • REST API • Provider • Bloc • Cubit
@@ -102,44 +94,25 @@ Healthcare mobile application designed for patient monitoring, healthcare insigh
 
 ## 🌱 Habit Tracker App
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/habit.png"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/habit.png" width="500"/>
+</p>
 
-A productivity-focused habit tracking application built to encourage consistency and measurable progress.
+Productivity-focused habit tracking application built for consistency and measurable progress.
 
-**Highlights**
+### Highlights
 - Daily habit tracking
 - Progress analytics
 - Challenge-based workflow
 - History insights
-- Smooth dark UI experience
+- Dark mode experience
 - Local persistence
 
-**Tech Stack:** Flutter • Local Storage • State Management • UI/UX Design
+**Tech Stack:** Flutter • Local Storage • State Management
 
 ---
 
-## ✅ Todo App
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/norankhaled1132004-art/norankhaled1132004-art/main/assets/todo.png" width="350"/>
-</div>
-
-Task management mobile application built for productivity, organization, and simple user interaction.
-
-**Highlights**
-- Task creation & deletion
-- Local persistence
-- Productivity-focused workflow
-- Minimal clean UI
-- Smooth mobile experience
-
-**Tech Stack:** Flutter • SQLite • State Management • Local Storage
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=norankhaled1132004-art&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -148,22 +121,6 @@ Task management mobile application built for productivity, organization, and sim
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=norankhaled1132004-art&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=norankhaled1132004-art&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=norankhaled1132004-art&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -185,5 +142,5 @@ Task management mobile application built for productivity, organization, and sim
 ---
 
 <p align="center">
-  <i>"Building ideas into beautiful mobile experiences."</i> 💙
+  <i>Building ideas into beautiful mobile experiences 💙</i>
 </p>
