@@ -52,12 +52,16 @@ Modern Flutter e-commerce mobile application with elegant UI, cart system, wishl
 ---
 
 ## 🏥 LivoCare
-Healthcare mobile application for patient workflow management, analytics, authentication, and predictive insights.
 
-**Tech:** Flutter • Firebase • REST API • Bloc • Provider
+AI-powered healthcare mobile application for NAFLD risk prediction, patient analytics, and clinical decision support.
+
+<p align="center">
+  <img src="./assets/readme/livocare.png" width="900"/>
+</p>
+
+**Tech:** Flutter • Firebase • REST API • Bloc • Provider • Machine Learning
 
 🔗 [View Project](https://norankhaled1132004-art.github.io/norankhaled1132004-art/livocare.html)
-
 ---
 
 ## 🌱 Habit Tracker
