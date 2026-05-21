@@ -51,8 +51,21 @@ I enjoy transforming ideas into polished products with smooth UI, strong archite
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Firebase%20%7C%20REST_API-FF6D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-111827?style=for-the-badge" />
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/backend.html">
+    <img src="https://img.shields.io/badge/BACKEND-Overview-374151?style=for-the-badge" />
+  </a>
+
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/firebase-rest-api.html">
+    <img src="https://img.shields.io/badge/FIREBASE_|_REST_API-FF6D00?style=for-the-badge" />
+  </a>
+
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/architecture.html">
+    <img src="https://img.shields.io/badge/ARCHITECTURE-Overview-4B5563?style=for-the-badge" />
+  </a>
+
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/clean-architecture.html">
+    <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-Pattern-111827?style=for-the-badge" />
+  </a>
 </p>
 
 ---
