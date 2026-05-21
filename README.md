@@ -65,7 +65,7 @@ Productivity-focused habit tracking application designed for consistency, analyt
 
 **Tech:** Flutter • Local Storage • State Management
 
-🔗 [View Project](YOUR_REPO_LINK)
+🔗 [View Project](https://norankhaled1132004-art.github.io/norankhaled1132004-art/habit.html)
 
 ---
 
