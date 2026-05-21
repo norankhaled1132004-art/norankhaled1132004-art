@@ -33,7 +33,24 @@ I enjoy transforming ideas into polished products with smooth UI, strong archite
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/State_Management-Bloc%20%7C%20Cubit%20%7C%20Provider-7C3AED?style=for-the-badge" />
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/state-management.html">
+    <img src="https://img.shields.io/badge/STATE_MANAGEMENT-Overview-7C3AED?style=for-the-badge" />
+  </a>
+
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/bloc.html">
+    <img src="https://img.shields.io/badge/BLOC-Architecture-6D28D9?style=for-the-badge" />
+  </a>
+
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/cubit.html">
+    <img src="https://img.shields.io/badge/CUBIT-State-8B5CF6?style=for-the-badge" />
+  </a>
+
+  <a href="https://norankhaled1132004-art.github.io/norankhaled1132004-art/provider.html">
+    <img src="https://img.shields.io/badge/PROVIDER-Pattern-4F46E5?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Backend-Firebase%20%7C%20REST_API-FF6D00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-111827?style=for-the-badge" />
 </p>
