@@ -47,7 +47,7 @@ Modern Flutter e-commerce mobile application with elegant UI, cart system, wishl
 
 **Tech:** Flutter • Dart • State Management • Local Storage
 
-🔗 [View Project](YOUR_REPO_LINK)
+🔗 [View Project](https://norankhaled1132004-art.github.io/norankhaled1132004-art/shopease.html)
 
 ---
 
